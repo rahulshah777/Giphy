@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/giphy/static/js/main.27ae3230.js",
+    "index.html": "/giphy/index.html",
+    "main.27ae3230.js.map": "/giphy/static/js/main.27ae3230.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.27ae3230.js"
+  ]
+}
